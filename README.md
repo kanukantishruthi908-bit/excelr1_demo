@@ -1,2 +1,3 @@
 # excelr1_demo
-This is my first respotry
+This is my first raspatory
+Author - shruthi 
